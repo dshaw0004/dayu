@@ -1,0 +1,46 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Dayu",
+  "author": "dshaw0004",
+  "themes": [
+    {
+      "name": "Dayu Transparent Dark",
+      "appearance": "dark",
+      "style": {
+        "border": "#FFA500FF",
+        "border.variant": "#FFA50069",
+        "border.selected": "#00D4FFFF",
+        "elevated_surface.background": "#080606FF",
+        "surface.background": "#0806069F",
+        "background": "#00000090",
+        "icon": "#FFA500FF",
+        "status_bar.background": "#00000090",
+        "title_bar.background": "#00000090",
+        "title_bar.inactive_background": "#00000090",
+        "toolbar.background": "#00000090",
+        "tab_bar.background": "#08060690",
+        "tab.inactive_background": "#08060690",
+        "tab.active_background": "#00000069",
+        "search.match_background": "#0DEAD064",
+        "panel.background": "#08060690",
+        "editor.background": "#00000090",
+        "editor.gutter.background": "#00000090",
+        "editor.subheader.background": "#080606FF",
+        "editor.active_line.background": "#101010BF",
+        "editor.highlighted_line.background": "#080606FF",
+        "editor.line_number": "#00FFEABA",
+        "editor.active_line_number": "#FFA500FF",
+        "terminal.background": "#00000090",
+        "version_control.added": "#00FF60FF",
+        "version_control.deleted": "#FC001BFF",
+        "panel.overlay_background": "#080606FF",
+        "panel.overlay_hover": "#000000FF",
+        "players": [],
+        "syntax": {},
+        "element.background": "#00000090"
+      }
+    }
+  ],
+  "isUserGenerated": true,
+  "description": "Transparent black theme. Name is inspired from Ayu."
+}

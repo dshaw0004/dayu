@@ -1,0 +1,7 @@
+id = "dayu"
+name = "Dayu"
+version = "0.0.1"
+schema_version = 1
+authors = ["dshaw0004"]
+description = "Transparent black theme. Name is inspired from Ayu."
+repository = "https://github.com/dshaw0004/my-zed-theme"
